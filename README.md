@@ -1,8 +1,20 @@
-- 👋 Hi, I’m @GregerGundersen
-- 👀 I’m interested in web design and graphical design
-- 🌱 I’m currently learning javascript and python
-- 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me: gregergundersen@gmail.com
+Hey 👋🏻,
+
+I am an aspiring Frontend-developer from Norway currently finishing my final year of school. I'm interested in development, design and coding.
+
+## 📬 Get in touch
+- LinkedIn: [https://www.linkedin.com/in/greger-gundersen-5a9771213/][1]
+
+## My expertise
+- HTML
+- CSS
+- Javascript
+- React
+
+## Currently learning
+- React
+- Python
+
 
 <!---
 GregerGundersen/GregerGundersen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
