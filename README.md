@@ -3,7 +3,7 @@ Hey 👋🏻,
 I am an aspiring Frontend-developer from Norway currently finishing my final year of school. I'm interested in development, design and coding.
 
 ## 📬 Get in touch
-- LinkedIn: [https://www.linkedin.com/in/greger-gundersen-5a9771213/][1]
+- LinkedIn:[https://www.linkedin.com/in/greger-gundersen-5a9771213/]
 
 ## My expertise
 - HTML
