@@ -10,5 +10,6 @@ I am an aspiring Frontend-developer from Norway currently finishing my final yea
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GregerGundersen)
 
 ## Find me around the web 🌎:
+<img src="https://user-images.githubusercontent.com/69842795/158147604-93873505-94a6-4be9-8b6f-164dff7545c5.png" alt="Linked In" width="100px" height="100px">
 ![image](https://user-images.githubusercontent.com/69842795/158147604-93873505-94a6-4be9-8b6f-164dff7545c5.png)
 
