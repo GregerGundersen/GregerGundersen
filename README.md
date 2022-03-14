@@ -9,7 +9,6 @@ I am an aspiring Frontend-developer from Norway currently finishing my final yea
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GregerGundersen)
 
-
-## 📬 Get in touch
-- LinkedIn:[www.linkedin.com/in/greger-gundersen-5a9771213/][1]
+## Find me around the web 🌎:
+![image](https://user-images.githubusercontent.com/69842795/158147604-93873505-94a6-4be9-8b6f-164dff7545c5.png)
 
