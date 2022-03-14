@@ -7,7 +7,10 @@ I am an aspiring Frontend-developer from Norway currently finishing my final yea
 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GregerGundersen)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GregerGundersen)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📬 Get in touch
 - LinkedIn:[www.linkedin.com/in/greger-gundersen-5a9771213/][1]
